@@ -21,3 +21,10 @@ For Example:
 * [Node Server Tutorial]()
 * [Promise Practice Exercises]()
 * [Web Scraping Workshop]()
+
+## Jeannie Evans
+
+
+[Node Server Tutorial](https://github.com/jmevans0211/messages)
+[Promise Practice Exercises](https://repl.it/@jeanjeannie/Promises-Deliverable-Mod-4-Prework)
+[Web Scraping Workshop](https://github.com/jmevans0211/webscraping-workshop)
